@@ -1,0 +1,6 @@
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\bin\Debug\HuffmanCode.exe.config
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\bin\Debug\HuffmanCode.exe
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\bin\Debug\HuffmanCode.pdb
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\obj\Debug\HuffmanCode.csprojResolveAssemblyReference.cache
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\obj\Debug\HuffmanCode.exe
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\HuffmanCode\HuffmanCode\obj\Debug\HuffmanCode.pdb
